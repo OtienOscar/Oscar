@@ -1,0 +1,16 @@
+public class Main {
+
+    public static void main(String[] args) {
+        String unitName = ":Java Programming";
+        String[] studentName1 = {":Anita Nyuguto, Reg No: 24/00166"};
+        int unitscore1 = 41;
+        String[] studentName2 = {":Oscar Otieno, Reg No: 23/07995"};
+        int unitscore2 = 42;
+        String[] studentName3 = {":Stephen Muli, Reg No: 22/01547"};
+        System.out.println("Unit Name" + unitName);
+        System.out.println("Student Name" + studentName1 + unitscore1);
+        System.out.println("Student Name" + studentName2 + unitscore2);
+
+
+    }
+    }
