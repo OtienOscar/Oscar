@@ -6,9 +6,9 @@ public class Main {
         String[] studentName2 = {":Oscar Otieno, Reg No: 23/07995"};
         String[] studentName3 = {":Stephen Muli, Reg No: 22/01547"};
         
-    System.out.println("Student Name" + studentName1 + unitscore1);
-        System.out.println("Student Name" + studentName2 + unitscore2);
-             System.out.println("Student Name" +studentName3);
+    System.out.println("Student Name" + studentName1);
+        System.out.println("Student Name" + studentName2);
+             System.out.println("Student Name" + studentName3);
 
 
     }
